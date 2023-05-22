@@ -5,11 +5,16 @@
 Apartir de uma amostra de dados que resume o comportamento de uso de cerca de 9.000 titulares de cartão de crédito ativos durante os últimos 6 meses.   
 Nosso objetivo é fazer a segmentação de clientes e encontrar características que os definem para definir estratégias de marketing.
 
+* Análise descritiva e estatística dos dados, procurando entender os dados, detectar padrões, realizar limpeza e transformação nos dados. 
+* Realizar segmentação de clientes utilizando o modelo KMeans e aplicando a redução de dimensionalidade através do PCA.  
+
+
 ## Utilização
 
 ### Dependencias
 
-* Windows 10 ou 11
+* Sistema Operacional:
+    * Windows 10 ou 11
 
 * Bibliotecas: 
     * Numpy
