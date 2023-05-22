@@ -11,11 +11,20 @@ Nosso objetivo é fazer a segmentação de clientes e encontrar características
 
 * Windows 10 ou 11
 
-* Bibliotecas: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Datetime, Pillow
+* Bibliotecas: 
+    * Numpy
+    * Pandas
+    * Matplotlib
+    * Seaborn
+    * Scikit-learn
+    * Datetime
+    * Pillow
 
-* Módulos: BytesIO
+* Módulos: 
+    * BytesIO
 
-* Framework: Streamlit
+* Framework: 
+    * Streamlit
 
 ### Executando o projeto
 
@@ -30,7 +39,7 @@ Nosso objetivo é fazer a segmentação de clientes e encontrar características
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
 Philippe Apolinário  
-[@PhilippeApolinario](https://www.linkedin.com/in/xxx](https://www.linkedin.com/in/philipperapolinario/)
+[@PhilippeApolinario](https://www.linkedin.com/in/philipperapolinario/)
 
 ## Histórico de versões.
 
