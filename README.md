@@ -1,62 +1,52 @@
 # Clusterização - Cartão de Crédito
 
-Um simples resumo do uso/propósito do projeto.
-
 ## Descrição do projeto
 
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+Apartir de uma amostra de dados que resume o comportamento de uso de cerca de 9.000 titulares de cartão de crédito ativos durante os últimos 6 meses. 
+Nosso objetivo é fazer a segmentação de clientes e encontrar características que os definem para definir estratégias de marketing.
 
 ## Utilização
 
 ### Dependencias
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
+* Windows 10 ou 11
 
-### Instalação
+* Bibliotecas:
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Datetime
+- Pillow
 
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
+* Módulos:
+- BytesIO
+
+* Framework:
+- Streamlit
+
 
 ### Executando o projeto
 
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
-
-## Ajuda
-
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
+1 - Baixe o arquivo do projeto
+2 - Descompacte o arquivo
+3 - Abra o terminal no diretório onde está os arquivos do projeto
+4 - Use o comando ```streamlit run app_clustering.py```
+5 - No webapp, busque no diretório do projeto o arquivo CC GENERALC.csv
 
 ## Autores
 
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
-ex. Philippe Apolinário  
-ex. [@PhilippeApolinario](https://www.linkedin.com/in/xxx)
+Philippe Apolinário  
+[@PhilippeApolinario](https://www.linkedin.com/in/xxx](https://www.linkedin.com/in/philipperapolinario/)
 
 ## Histórico de versões.
 
-* 0.2
-	* Ajustes de diversos bugs e otimização
 * 0.1
     * Primeira versão
 
 ## Licença de uso
 
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
-
-## Fontes de inspiração
-
-Inspiração, trechos de códigos utilizados, etc.
-* [readme-template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+Esse projeto possui licença de uso [MIT] - acesse o arquivo LICENSE.md para mais detalhes.
