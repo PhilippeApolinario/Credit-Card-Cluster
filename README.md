@@ -11,29 +11,19 @@ Nosso objetivo é fazer a segmentação de clientes e encontrar características
 
 * Windows 10 ou 11
 
-* Bibliotecas:
-- Numpy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Datetime
-- Pillow
+* Bibliotecas: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Datetime, Pillow
 
-* Módulos:
-- BytesIO
+* Módulos: BytesIO
 
-* Framework:
-- Streamlit
-
+* Framework: Streamlit
 
 ### Executando o projeto
 
-1 - Baixe o arquivo do projeto
-2 - Descompacte o arquivo
-3 - Abra o terminal no diretório onde está os arquivos do projeto
-4 - Use o comando ```streamlit run app_clustering.py```
-5 - No webapp, busque no diretório do projeto o arquivo CC GENERALC.csv
+1 - Baixe o arquivo do projeto  
+2 - Descompacte o arquivo  
+3 - Abra o terminal no diretório onde está os arquivos do projeto  
+4 - Use o comando ```streamlit run app_clustering.py```  
+5 - No webapp, busque no diretório do projeto o arquivo CC GENERALC.csv  
 
 ## Autores
 
