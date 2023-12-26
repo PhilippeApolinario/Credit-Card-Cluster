@@ -32,6 +32,8 @@ Este projeto fornece uma abordagem abrangente para a segmentação de clientes d
 ## Link da Aplicação
 https://credit-card-cluster-philippe-apolinario.streamlit.app/
 
+https://github.com/PhilippeApolinario/Credit-Card-Cluster/assets/100958973/3410a610-f010-4d34-a8ef-579eee24863d
+
 ## Utilização
 
 ### Dependências
