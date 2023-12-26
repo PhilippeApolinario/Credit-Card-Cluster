@@ -133,7 +133,9 @@ def main():
         scale = StandardScaler()
         X = scale.fit_transform(X)
 
-        st.write('## Definindo o número de grupos')  
+        st.write('## Definindo o número de grupos')
+        # Informar ao usuário que a operação pode levar alguns minutos
+        st.info("Esta operação pode levar alguns minutos. Por favor, aguarde...")  
 
         #Decidindo o número de clusters
         fig, ax = plt.subplots(figsize=(10, 7)) 
