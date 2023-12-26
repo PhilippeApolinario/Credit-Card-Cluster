@@ -38,7 +38,7 @@ https://credit-card-cluster-philippe-apolinario.streamlit.app/
 * Sistema Operacional:
     * Windows 10 ou 11
 
-* Bibliotecas:
+* Bibliotecas e Módulos:
     * Numpy
     * Pandas
     * Matplotlib
@@ -46,14 +46,10 @@ https://credit-card-cluster-philippe-apolinario.streamlit.app/
     * Scikit-learn
     * Datetime
     * Pillow
-
-* Módulos:
+    * Streamlit
     * BytesIO
 
-* Framework:
-    * Streamlit
-
-## Executando o projeto
+### Executando o projeto
 1 - Baixe o arquivo do projeto  
 2 - Descompacte o arquivo  
 3 - Acesse o link do webapp e busque pelo arquivo CC GENERALC.csv presente na pasta input
@@ -61,9 +57,6 @@ https://credit-card-cluster-philippe-apolinario.streamlit.app/
 ## Autores
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
-Philippe Apolinário  
-[@PhilippeApolinario](https://www.linkedin.com/in/philipperapolinario/)
-Philippe Apolinário  
 [@PhilippeApolinario](https://www.linkedin.com/in/philipperapolinario/)
 
 ## Histórico de versões.

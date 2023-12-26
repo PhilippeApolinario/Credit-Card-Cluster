@@ -11,8 +11,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 from sklearn.preprocessing import StandardScaler
-from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
+from sklearn.cluster import KMeans
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Set no tema do seaborn para melhorar o visual dos plots
