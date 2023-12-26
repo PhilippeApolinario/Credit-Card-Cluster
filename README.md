@@ -63,6 +63,8 @@ Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
 Philippe Apolinário  
 [@PhilippeApolinario](https://www.linkedin.com/in/philipperapolinario/)
+Philippe Apolinário  
+[@PhilippeApolinario](https://www.linkedin.com/in/philipperapolinario/)
 
 ## Histórico de versões.
 
