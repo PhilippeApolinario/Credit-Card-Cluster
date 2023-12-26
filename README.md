@@ -59,7 +59,6 @@ https://credit-card-cluster-philippe-apolinario.streamlit.app/
 3 - Acesse o link do webapp e busque pelo arquivo CC GENERALC.csv presente na pasta input
 
 ## Autores
-
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
 Philippe Apolinário  
@@ -73,5 +72,4 @@ Philippe Apolinário
     * Segunda versão
     
 ## Licença de uso
-
 Esse projeto possui licença de uso [MIT] - acesse o arquivo LICENSE.md para mais detalhes.

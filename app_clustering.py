@@ -226,7 +226,6 @@ def main():
                             file_name= 'general_clusterizado.xlsx')
         
 
-
 if __name__ == '__main__':
 	main()
 
